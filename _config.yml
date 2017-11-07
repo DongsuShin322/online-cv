@@ -22,10 +22,10 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 #sidebar links
 email: dongsoo1108@gmail.com
 phone: +82 10 3264 6125
-website: - #blog.webjeda.com #do not add http://
+website: #blog.webjeda.com #do not add http://
 linkedin: Dongsu-shin-5bb613130
 github: Dongsushin322
-twitter: '-'
+twitter: 
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
