@@ -1,6 +1,6 @@
 # Site Settings
 title: Resume
-url: 'http://dongsushin322.github.io' #'http://webjeda.com'
+url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
